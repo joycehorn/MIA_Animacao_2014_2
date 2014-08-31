@@ -13,7 +13,7 @@ public class LancamentoObliquo extends GLCanvas implements KeyListener, GLEventL
 	
 	}
 
-	@Override
+	
 	public void init(GLAutoDrawable drawable) {
 		// TODO Auto-generated method stub
 		
