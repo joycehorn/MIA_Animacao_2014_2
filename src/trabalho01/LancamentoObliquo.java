@@ -10,7 +10,7 @@ import javax.media.opengl.awt.GLCanvas;
 public class LancamentoObliquo extends GLCanvas implements KeyListener, GLEventListener{
 
 	public static void main(String[] args) {
-	
+		System.out.println("mudança de repositório");
 	}
 
 	
